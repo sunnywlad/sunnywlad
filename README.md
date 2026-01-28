@@ -3,19 +3,19 @@
 🚀 **Fresh out of Le Wagon's AI & Web Development bootcamp**
 
 👥 **where I:**
-- 👥 Designed & coded **full-stack applications** with modern stacks in a team of 4
-- 🤖 Integrated **AI features** (LLM-powered assistants, smart automation)
-- ⏰ Delivered clean, maintainable code under tight deadlines
+-  Designed & coded full-stack applications with modern stacks in a team of 4
+-  Integrated AI features (LLM-powered assistants, smart automation)
+-  Delivered clean, maintainable code under tight deadlines
 
 🧠 **Before coding full-time, I was:**
-- 🧠 Completing a scientific preparatory class (MPSI/PSI) at Mines ParisTech level (2011–2014)
-- 🌸 Working as an artisan florist in high-end shops for 4 years
-- 👨‍🏫 Tutoring students privately & remotely
+-  Completing a scientific preparatory class (MPSI/PSI) at Mines ParisTech level (2011–2014)
+-  Working as an artisan florist in high-end shops for 4 years
+-  Tutoring students privately & remotely
 
 🔍 **Which means I bring:**
-- 🔍 Rigorous analytical mindset & fast learning
-- 👀 User-centered & detail-oriented approach
-- 🗣️ Strong communication & teaching skills
+-  Rigorous analytical mindset & fast learning
+-  User-centered & detail-oriented approach
+-  Strong communication & teaching skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
