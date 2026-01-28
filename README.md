@@ -1,33 +1,21 @@
 <h2 align="center">Hello I'm Wladimir – Junior Full-Stack Developer</h2>
 
-<p align="center">
-  <strong>Fresh from Le Wagon AI & Web Development bootcamp</strong> • Scientific background turned coder
-</p>
+🚀 **Fresh out of Le Wagon's AI & Web Development bootcamp**
 
-**Fresh out of Le Wagon's AI & Web Development bootcamp** where I:
+👥 **where I:**
+- 👥 Designed & coded **full-stack applications** with modern stacks in a team of 4
+- 🤖 Integrated **AI features** (LLM-powered assistants, smart automation)
+- ⏰ Delivered clean, maintainable code under tight deadlines
 
-- Designed & coded **full-stack applications** with modern stacks  
-- Integrated **AI features** (LLM-powered assistants, smart automation)  
-- Delivered clean, maintainable code under real deadlines
+🧠 **Before coding full-time, I was:**
+- 🧠 Completing a scientific preparatory class (MPSI/PSI) at Mines ParisTech level (2011–2014)
+- 🌸 Working as an artisan florist in high-end shops for 4 years
+- 👨‍🏫 Tutoring students privately & remotely
 
-Before coding full-time, I was:  
-→ Completing a scientific preparatory class (MPSI/PSI) at Mines ParisTech level (2011-2014)
-→ Working as artisan florist in high-end shops for 4 years → deep customer focus
-→ Tutoring privately → breaking down tough concepts clearly
-
-Which means I bring:  
-• Rigorous analytical mindset & fast learning  
-• User empathy honed by premium client work  
-• Meticulous detail-oriented approach + creative edge  
-• Strong communication skills  
-• Full-stack dev ready to build & ship impactful products
-
-### About me
-
-- 🎓 Built full-stack web apps with **AI integration** and developed an **AI-powered assistant** in a team of four
-- 🧠 Strong scientific training + creative craftsman & private tutor experience
-- ⚡ Quick learner, rigorous problem-solving, clear communication and clean full-stack delivery
-- 💡 Creating **impactful**, user-focused products in teams
+🔍 **Which means I bring:**
+- 🔍 Rigorous analytical mindset & fast learning
+- 👀 User-centered & detail-oriented approach
+- 🗣️ Strong communication & teaching skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
@@ -42,4 +30,7 @@ Which means I bring:
   <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />
 </p>
 
+📫 How to reach me wld@netc.fr
+
 Open to opportunities, collaborations, and interesting side-projects!
+Perpignan, Paris, remote !
