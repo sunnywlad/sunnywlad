@@ -4,18 +4,19 @@
 
 👥 **where I:**
 - Designed & coded full-stack applications with modern stacks in a team of 4
-- Integrated AI features (LLM-powered assistants, smart automation)
-- Delivered clean, maintainable code under tight deadlines
+- Integrated AI features : LLM-powered assistant, smart automation
+- Delivered clean, maintainable code under deadlines
 
 🧠 **Before coding full-time, I was:**
-- Completing a scientific preparatory class (MPSI/PSI) at Mines ParisTech level (2011–2014)
-- Working as an artisan florist in high-end shops for 4 years
+- Completing a scientific preparatory class (MPSI/PSI) at Mines ParisTech
+- Working as an artisan florist in high-end shops
 - Tutoring students privately & remotely
 
 🔍 **Which means I bring:**
 - Rigorous analytical mindset & fast learning
 - User-centered & detail-oriented approach
-- Strong communication & teaching skills
+- Clean communication & mentoring skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
