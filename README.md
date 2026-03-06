@@ -40,6 +40,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-Feel free to reach me at wld@netc.fr
+Feel free to reach me out at wld@netc.fr
 
 Open to opportunities, collaborations, interesting side-projects! and random free talks
