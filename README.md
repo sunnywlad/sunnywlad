@@ -8,7 +8,6 @@ Open to a DeFi or blockchain internship, flexible start date
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/Foundry-2A2A2A?style=for-the-badge" alt="Foundry" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/viem-1B1B1F?style=for-the-badge" alt="viem" />
