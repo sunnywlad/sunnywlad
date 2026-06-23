@@ -15,9 +15,9 @@ Open to a DeFi or blockchain internship, flexible start date
 </p>
 
 ## Building now
-- **Downtown BTC**, a StableSwap DEX for wrapped Bitcoin that returns arbitrage profit to liquidity providers instead of leaking it to MEV bots, with no price oracle. Alyra certification project, in progress, targeting a testnet. Inspired by am-AMM and Bunni v2
 - Solidity smart contracts, automated testing (Hardhat, Foundry) and smart-contract security
 - Full-stack dApp with React, TypeScript and viem
+- **Downtown BTC**, a StableSwap DEX for wrapped Bitcoin that returns arbitrage profit to liquidity providers instead of leaking it to MEV bots, with no price oracle. Alyra certification project, in progress, targeting a testnet. Inspired by am-AMM and Bunni v2
 
 ## Built (lead dev, team of 4, Le Wagon)
 - **[Conversights](https://github.com/sunnywlad/Conversights)**, an AI SaaS that turns YouTube comments into a consumer-insights dashboard. Rails, PostgreSQL, RAG, OpenAI
