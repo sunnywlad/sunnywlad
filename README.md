@@ -1,45 +1,39 @@
-<h2 align="center">Hello I'm Wladimir – Full-Stack Developer</h2>
+<h2 align="center">Wladimir Blaise, Web3 Developer</h2>
 
-**Graduating April 2026 from Le Wagon's AI & Web Development bootcamp**
+<p align="center">
+Software developer moving into Web3, focused on Solidity, smart-contract security and how DeFi protocols actually work under the hood.<br>
+Open to a DeFi or blockchain internship, flexible start date.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Foundry-2A2A2A?style=for-the-badge" alt="Foundry" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/viem-1B1B1F?style=for-the-badge" alt="viem" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+</p>
+
+## Building now
+- **Downtown BTC**, a StableSwap DEX for wrapped Bitcoin that returns arbitrage profit to liquidity providers instead of leaking it to MEV bots, with no price oracle. Alyra certification project, in progress, targeting a testnet. Inspired by am-AMM and Bunni v2
+- Solidity smart contracts, automated testing (Hardhat, Foundry) and smart-contract security
+- Full-stack dApp with React, TypeScript and viem
+
+## Built (lead dev, team of 4, Le Wagon)
+- **[Conversights](https://github.com/sunnywlad/Conversights)**, an AI SaaS that turns YouTube comments into a consumer-insights dashboard. Rails, PostgreSQL, RAG, OpenAI
+- **[InsightsBot](https://github.com/sunnywlad/INSIGHT_CHATBOT)**, a tool-calling AI agent that pulls YouTube comments and analyses them. Rails, OpenAI
+
+## Background
+- CPGE (MPSI/PSI) and Mines Paris-PSL, a strong scientific foundation
+- 12+ years tutoring maths and physics, I break down hard problems and explain them simply
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/Ruby%20LLM-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby LLM" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4285F4?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge" alt="RAG" />
 </p>
 
-**Currently building :**
-- Acquiring modern web stack : Rails, LLM integration, JS/Vue, SQL/PostgreSQL, HTML/CSS, Git
-- Designing an AI-powered chatbot during an agile sprint, ongoing
-- Co-creating Conversights end-to-end, a full-stack AI SaaS generating consumer insights
-
-**Before coding full-time :**
-- Intensive scientific training in CPGE MPSI/PSI and Mines Paris-PSL
-- High-end florist: custom creations, premium service under pressure
-- High school students tutor in math & physics for 11+ years, remote since 2022
-
-**Key strengths :**
-- Analytical thinking, fast learner
-- Prototyping under constraints, attention to detail
-- Clear communication, enjoys teamworking
-
-<p align="center">
-  <strong>Next learning goals :</strong>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-</p>
-
-Feel free to reach me out at wld@netc.fr
-
-Open to opportunities, collaborations, interesting side-projects! and random free talks
+## Reach me
+wld@netc.fr · [LinkedIn](https://www.linkedin.com/in/wladimir-blaise-010wb101)
