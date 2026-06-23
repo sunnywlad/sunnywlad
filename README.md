@@ -1,8 +1,8 @@
 <h2 align="center">Wladimir Blaise, Web3 Developer</h2>
 
 <p align="center">
-Software developer moving into Web3, focused on Solidity, smart-contract security and how DeFi protocols actually work under the hood.<br>
-Open to a DeFi or blockchain internship, flexible start date.
+Software developer moving into Web3 <br>Focused on Solidity, smart-contract security and how DeFi protocols actually work under the hood<br>
+Open to a DeFi or blockchain internship, flexible start date
 </p>
 
 <p align="center">
