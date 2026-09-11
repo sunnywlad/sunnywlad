@@ -7,11 +7,11 @@ Open to a DeFi or blockchain mission
 </p>
 
 ### Working with:
-**Smart contracts:** Solidity, EVM, OpenZeppelin, ERC-20/ERC-721, access control, gas optimisation, proxy and EIP-1167 clones
-**Testing & security:** Foundry, Hardhat 3, fuzzing, invariant testing, attack scripts, CI (GitHub Actions)
-**Front & tooling:** TypeScript, React, viem, wagmi, Reown
-**AI-assisted workflow:** Claude Code, multi-agent orchestration, RAG, function calling, OpenAI API
-**Also:** Ruby on Rails, PostgreSQL, Python
+**Smart contracts:** Solidity, EVM, OpenZeppelin, ERC-20/ERC-721, access control, gas optimisation, proxy and EIP-1167 clones  
+**Testing & security:** Foundry, Hardhat 3, fuzzing, invariant testing, attack scripts, CI (GitHub Actions)  
+**Front & tooling:** TypeScript, React, viem, wagmi, Reown  
+**AI-assisted workflow:** Claude Code, multi-agent orchestration, RAG, function calling, OpenAI API  
+**Also:** Ruby on Rails, PostgreSQL, Python  
 
 ### Projects
 - **[Merion](https://github.com/sunnywlad/Merion)**, oracle-free wrapped-BTC DEX on Base with an auction on swap fees (am-AMM, after Bunni v2). Constant-product over three wrappers (WBTC, cbBTC, LBTC), share-inflation guard, CEI, pull payments, Foundry invariant suite, self-audit, attack scripts. Deployed on Base Sepolia.
