@@ -14,10 +14,10 @@ Open to a DeFi or blockchain mission
 **Also:** Ruby on Rails, PostgreSQL, Python  
 
 ### Projects
+- **[VETO](https://github.com/sunnywlad/VETO)**, trust gateway between AI agents and a company treasury (ESSEC hackathon, Fintech track, 3rd of 16). Every request is scored at the door, a contract decides on its own state (refused, human validation, accepted), a detected attack triggers quarantine without moving funds, and each step goes into a hash-chained log. Solidity, TypeScript, Foundry. Runs on local and test networks only.
 - **[Merion](https://github.com/sunnywlad/Merion)**, oracle-free wrapped-BTC DEX on Base with an auction on swap fees (am-AMM, after Bunni v2). Constant-product over three wrappers (WBTC, cbBTC, LBTC), share-inflation guard, CEI, pull payments, Foundry invariant suite, self-audit, attack scripts. Deployed on Base Sepolia.
 - **[the-voting-dapp](https://github.com/sunnywlad/the-voting-dapp)**, EIP-1167 clone factory for voting contracts. Atomic clone + initialize, closed front-running window, ownerless factory. Deployed on Sepolia.
-- **[Conversights](https://github.com/sunnywlad/Conversights)**, AI SaaS turning YouTube comments into a consumer-insights dashboard. Rails, PostgreSQL, RAG, OpenAI.
-- **[InsightsBot](https://github.com/sunnywlad/INSIGHT_CHATBOT)**, tool-calling AI agent that pulls and analyses YouTube comments. Rails, OpenAI.
+- **[Conversights](https://github.com/sunnywlad/Conversights)**, AI SaaS turning YouTube comments into a consumer-insights dashboard, built in a team of 4 as lead dev. Includes a tool-calling agent that pulls and analyses the comments. Rails, PostgreSQL, RAG, OpenAI.
 
 ### Reach me
 wld@netc.fr
